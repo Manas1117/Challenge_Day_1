@@ -1,6 +1,6 @@
 def greet():
-    print("Hello User")
+    print("Hello User, Hope you enjoy being here")
 
 def farewell():
-    print("Bye User")
+    print("Bye User, Visit Agian")
 
